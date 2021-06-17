@@ -1,3 +1,11 @@
+# React Task Tracker
+
+A learning project created by Traversy Media that manages any sort of tasks and saves them into a fake API using JSON-Server
+
+To start the server, run 
+
+`npm server`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
